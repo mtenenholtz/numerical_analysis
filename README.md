@@ -1,2 +1,2 @@
 # numerical_analysis
-A library, written in Python and Matlab, of different numerical analysis algorithms that I have implemented.
+A library, written in Matlab (sorry), of different numerical analysis algorithms that I have implemented.
